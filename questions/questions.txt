@@ -1,0 +1,4 @@
+Questions for tommorrow:
+
+Q1. how can we use img as hyperlink in html?Give an example.
+Q2. create a simple webpage in html consisting of header followed by a paragraph and a hyperlink with an anchor ot another html page.
