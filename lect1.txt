@@ -1,0 +1,5 @@
+HTML:
+we have started html today.
+html is a scripting langyage it;s fullform is ht=ypertext markup language.
+every element in  ahtml file is in the form of tag.
+which are known as the lements of the html.
