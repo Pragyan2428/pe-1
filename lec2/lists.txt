@@ -1,0 +1,7 @@
+Date: 22/07/26
+
+list: collection of elements
+list is of three types:
+    1.ordered list (ol) : list characters are present inside.
+    2.unordered list (ul):li elements are present inside.
+    3. descriptive list (dl):this had heading , text.

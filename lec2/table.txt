@@ -1,0 +1,10 @@
+table:
+syntax:
+<table>
+    <tr>
+        <th>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+</table>
