@@ -1,0 +1,48 @@
+form:
+it is used to take information from the user.
+every forms has  input.
+the different types of inputs are as follows:
+on the basis of text info:
+1.textual input
+2.email input
+3.password input:this is used for taking password. and it masks the charcaters.
+4.search input
+5.url input
+6.textbox input
+
+on the basis of selection:
+1.checkbox: the input is used ot select multiple options form the given lists.
+ex:terms and conditons which you tick while eneteing a website.
+2. radio button: this input is used to selct only onw option form a gievn list of options.
+3.file: this input is used to select a file to be uploaded from the device.
+4.range: this input is used to selct a value in a given range on a slider.
+5.color: this input is used to selct the colors from a color palette.
+
+input for control:
+1. normal button: this input is used ot place a button which has no default control.
+2. submit button:  this input is usd to submit the form data.
+3. reset button: this input is used to reset all the data of a form data to a default value or clears the form data.
+4. image button: this input is used to capture image .
+5. hidden button: this button is used to hide a form data.
+
+input for date and time:
+1. date:
+2. time:
+3. date time -local: 
+4. month:
+5. week:
+ 
+types of attributes:
+
+type : the attribute is used to change the type of input.
+id: it is unique for every input element in the form.
+value: it helps to set the current value of the input.it is a default value.
+pattern: it helps us to tell the pattern of the input.
+min: it helps us to set the min elements of an input.
+max: it helps us to set the max elements of an input.
+placeholder: it shows an example text.
+size:
+read-only:
+disabled:
+checked:
+multiple:
