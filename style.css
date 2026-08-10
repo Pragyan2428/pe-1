@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: aqua;
+}
+p{
+    background-color: red;
+    
+}
+h1{
+    background-color: blue;
+}

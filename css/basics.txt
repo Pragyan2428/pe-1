@@ -1,0 +1,21 @@
+Types of css:
+1.inline :
+in this the style properties are included within the element tag.
+example:
+<h1 style="" >here the style attribute is used inside a tag.
+2.internal :
+in this style the styling is added in the added using the style tag .
+3.external :
+in this we make an external .css file.and link it with our html file.
+
+Advantages:
+inline: it can overwrite both internal and external css.
+            inline>internal>external.
+        it is helpful for documents very few elements.
+        for large html files using inline css would be very difficult.
+Internal css:it is useful if chnages have to made on a large no of elements within a html file.
+             it can overwrite external but not inline styling.
+             it cannot be used for any another html file to which it is not linked.
+External css:this file can be linked to any other html file.
+                very easy to use.
+             

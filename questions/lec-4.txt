@@ -1,0 +1,12 @@
+<!-- q.what is meta tag?what are its applications?
+q.how do we add an audio and a video to a html file?explain with an example?
+q.write a short notes on title tag in html.
+q.explain div tag ,span tag , section tag , aside tag , header tag and footer tag. -->
+
+in a html file:
+elements can be given unique ids or grouped into different classes.
+to use an if in style use hash(#).
+example:
+#idname{
+    content
+}
