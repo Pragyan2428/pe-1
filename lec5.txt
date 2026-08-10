@@ -1,0 +1,28 @@
+Pseudo elements:
+basically its a part of a complete element.
+it is described as s
+syntax: 
+    element : code
+different types of pseudo elements in html:
+Pseudo elements allows us ro select specific parts of a html element rather than the element itself.
+1.Typographic pseudo element: 
+a.First-letter:Targets inly the very first letter of the element
+b.First-line:selects only the very first top visible line of the element
+
+2.Form-Pseudo elements:
+a.Placeholder:hint /example text.it allows us to customize color,font and size etc.of the Placeholderhint text inside the input element.
+b.File-selector button: it allows us to target the uplaod button inside the input file type.
+c.Marker: Styles the bullet - points of a orderedd or undordered list elements
+
+3.Highlighting pseudo element:
+a.selection : it changes the font or Styles of the element.
+b.  backdrop :  alters the screen background placed directly behind a native dialogue box.
+ and many more.(go to mozilla docs.)
+
+
+pseudo classes: it is used to select an element of a class .
+
+
+question:
+refer to the mozilla developer docs and see and learn how to change the style of list .
+using pseudo classes.
