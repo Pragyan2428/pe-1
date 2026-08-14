@@ -1,0 +1,1 @@
+tailwind css is a framework which is used to style the elements without writing seperate stylesheets .It helps in faster development and results in smaller css production bundles.

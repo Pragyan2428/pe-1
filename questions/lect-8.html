@@ -1,0 +1,44 @@
+<!-- create a div element but make a circle.assign the color as red.30percent red ,orange and green repectively. -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circle</title>
+    <style>
+        @keyframes color {
+
+            0%,
+            100% {
+                background-color: red;
+            }
+
+            33% {
+
+                background-color: orange;
+            }
+
+            66% {
+                background-color: green;
+            }
+        }
+
+        .circle {
+            border: none;
+            display: inline-flex;
+            width: 100px;
+            height: 100px;
+            background-color: brown;
+            border-radius: 50px;
+            animation: move 3s ease infinite;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="circle"></div>
+</body>
+
+</html>
