@@ -1,13 +1,40 @@
-.pt8{
+.pt8 {
     font-size: 8px;
 
 }
-.pt12{
+
+.pt12 {
     font-size: 12px;
 }
-.colour-red{
+
+.pt16 {
+    font-size: 16px;
+}
+
+.pt18 {
+    font-size: 18px;
+}
+
+.pt20 {
+    font-size: 20px;
+}
+
+.colour-red {
     color: red;
 }
-.background-colour-red{
+
+.background-colour-red {
     background-color: red;
+}
+
+.background-colour-green {
+    background-color: green;
+}
+
+.colour-blue {
+    color: blue;
+}
+
+.background-colour-blue {
+    background-color: blue;
 }

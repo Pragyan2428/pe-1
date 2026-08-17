@@ -1,0 +1,19 @@
+tailwind ended today .
+Javascript started.
+javascript:
+it is a programming language.
+there are three variables :
+1.var:it is a global(function scope) element
+2.let:its a local(block scope) variable
+3.const
+
+q1.
+what is the difference between var ,let and const declarations?
+give an example.
+
+different types of datatypes;
+1.int 
+2.float
+3.char
+4.boolean
+we can make comments as:\**\
