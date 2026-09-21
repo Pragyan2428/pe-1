@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyes</title>
+    <style>
+        .circle {
+            height: 300px;
+            width: 300px;
+            border: 2px solid black;
+            border-radius: 300px;
+        }
+
+        .outer {
+            overflow: hidden;
+            position: relative;
+        }
+
+        .inner.circle {
+            height: 150px;
+            width: 150px;
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            background: black;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="eye" class="outer circle">
+        <div id = "pupil" class="inner circle"></div>
+    </div>
+<script> src="script.js"</script>
+</body>
+
+</html>
